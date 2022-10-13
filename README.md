@@ -6,7 +6,7 @@ Python Developer, Backend Developer and Data Scientist
 
 My first language was python and I use it for everything from automation to web applications to data analysis. I enjoy working with and learning new technologies!
 
-* 🌍  I'm based in United Kingdom
+<!-- * 🌍  I'm based in United Kingdom -->
 * 🖥️  See my portfolio at [MyPortfolio](http://anyang-portfolio.herokuapp.com/)
 * ✉️  You can contact me at [anyangjoshua@gmail.com](mailto:anyangjoshua@gmail.com)
 * 🧠  I'm learning motoko and solidity as well as testing out other deep learning algorithms
@@ -52,10 +52,12 @@ src="https://img.shields.io/github/followers/joshuaanyang?logo=github&style=for-
 
 <a href="http://www.github.com/joshuaanyang"><img src="https://github-readme-stats.vercel.app/api?username=joshuaanyang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joshuaanyang's GitHub stats" /></a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaanyang&langs_count=8&layout=compact&hide_border=true" alt="Josh's GitHub stats" />
+
 <a href="http://www.github.com/joshuaanyang"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuaanyang&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- <a href="https://github.com/joshuaanyang" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaanyang&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaanyang&langs_count=8&layout=compact&hide_border=true" alt="Josh's GitHub stats" />
+
 
 
