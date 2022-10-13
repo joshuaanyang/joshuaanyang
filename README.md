@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anyang Joshua
+Hi ![](https://media.giphy.com/media/1ZUnl98hcUiFCv1Nlz/giphy.gif)My name is Anyang Joshua
 =====================================================================================================================================
 
 Python Developer, Backend Developer and Data Scientist
@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/joshuaanyang?logo=github&style=for-
 
 <a href="http://www.github.com/joshuaanyang"><img src="https://github-readme-stats.vercel.app/api?username=joshuaanyang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joshuaanyang's GitHub stats" /></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaanyang&langs_count=8&layout=compact&hide_border=true" alt="Josh's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaanyang&langs_count=8&layout=compact&hide_border=true&bg_color=1c1917&text_color=ffffff" alt="Josh's GitHub stats" />
 
 <a href="http://www.github.com/joshuaanyang"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuaanyang&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
