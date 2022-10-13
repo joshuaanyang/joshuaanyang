@@ -1,4 +1,4 @@
-Hi ![](https://media.giphy.com/media/1ZUnl98hcUiFCv1Nlz/giphy.gif)My name is Anyang Joshua
+<img src="https://media.giphy.com/media/mRLujx0337XRgJn24j/giphy.gif" alt="My Project GIF" width="90" height="90"> Hi! My name is Anyang Joshua
 =====================================================================================================================================
 
 Python Developer, Backend Developer and Data Scientist
@@ -14,8 +14,9 @@ My first language was python and I use it for everything from automation to web 
 
 <a href="https://www.twitter.com/joshpydevops" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/joshpydevops?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/joshuaanyang" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/joshuaanyang?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a>
+<!--<a href="https://www.github.com/joshuaanyang" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/joshuaanyang?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 ### Skills
 
