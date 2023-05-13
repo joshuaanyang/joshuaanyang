@@ -7,7 +7,7 @@ Python Developer, Backend Developer and Data Scientist
 My first language was python and I use it for everything from automation to web applications to data analysis. I enjoy working with and learning new technologies!
 
 <!-- * 🌍  I'm based in United Kingdom -->
-* 🖥️  Feel free to browse around to see my work!
+* 🖥️  Feel free to browse around to see my work! --> This is my latest [work](http://joshgymexercise-env.eba-mdmpubht.us-east-1.elasticbeanstalk.com/)
 * ✉️  You can contact me at [anyangjoshua@gmail.com](mailto:anyangjoshua@gmail.com)
 * 🧠  I'm learning motoko and solidity as well as testing out other deep learning algorithms
 * 🤝  I'm open to collaborating on interesting and open source projects
