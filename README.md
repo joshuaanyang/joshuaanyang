@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/mRLujx0337XRgJn24j/giphy.gif" alt="My Project GIF" width="90" height="90"> Hi! My name is Anyang Joshua
 =====================================================================================================================================
 
-Python Developer, Backend Developer and Data Scientist
+Quantitative Developer working with C# anf Python
 ------------------------------------------------------
 
 My first language was python and I use it for everything from automation to web applications to data analysis. I enjoy working with and learning new technologies!
