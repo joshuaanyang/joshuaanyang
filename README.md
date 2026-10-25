@@ -14,7 +14,7 @@ I build backend trading infrastructure: market data adapters, observability, and
 - Distributed systems and system design
 - Linux internals and networking
 - Kubernetes and CI/CD for low-latency services
-- **MJO** – a personal project where I put all of the above into practice (repo coming soon)
+
 
 ### Stack
 
